@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("has entrado al programa de piscinas con exito");
+Console.WriteLine("has entrado al programa de piscinas");
 
 public class Piscinas
 {
