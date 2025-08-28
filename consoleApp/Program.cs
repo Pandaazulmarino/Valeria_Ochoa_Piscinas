@@ -18,6 +18,7 @@ public class Estados
 {
     public int Id;
     public string? Estado;
+    public List<Piscinas>? Piscinas;
 }
 
 public class Articulos
@@ -30,4 +31,5 @@ public class Categorias
 {
     public int id;
     public string? Categoria;
+    public List<Piscinas>? Piscinas;
 }
